@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pact-rust-net", "pact-rust-net\pact-rust-net.csproj", "{C59A64B1-CF66-4143-B93E-D3861C12F456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pact-rust-net-testbed", "pact-rust-net-testbed\pact-rust-net-testbed.csproj", "{A4BFE7B6-DB2F-4CE7-9AD7-A8D58BB89273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pact-rust-net-testbed-fx", "pact-rust-net-testbed-fx\pact-rust-net-testbed-fx.csproj", "{D9BB5F65-9FB7-44CA-AF6F-182635E08BA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pact-rust-net-testbed-core", "pact-rust-net-testbed-core\pact-rust-net-testbed-core.csproj", "{88ABFE7F-7131-4056-B3E7-11B576B88306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59A64B1-CF66-4143-B93E-D3861C12F456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59A64B1-CF66-4143-B93E-D3861C12F456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59A64B1-CF66-4143-B93E-D3861C12F456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59A64B1-CF66-4143-B93E-D3861C12F456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4BFE7B6-DB2F-4CE7-9AD7-A8D58BB89273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BFE7B6-DB2F-4CE7-9AD7-A8D58BB89273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BFE7B6-DB2F-4CE7-9AD7-A8D58BB89273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BFE7B6-DB2F-4CE7-9AD7-A8D58BB89273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BB5F65-9FB7-44CA-AF6F-182635E08BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BB5F65-9FB7-44CA-AF6F-182635E08BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BB5F65-9FB7-44CA-AF6F-182635E08BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BB5F65-9FB7-44CA-AF6F-182635E08BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88ABFE7F-7131-4056-B3E7-11B576B88306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ABFE7F-7131-4056-B3E7-11B576B88306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88ABFE7F-7131-4056-B3E7-11B576B88306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88ABFE7F-7131-4056-B3E7-11B576B88306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1680177-FE64-4E35-8A5A-ACFC58FF22DA}
+	EndGlobalSection
+EndGlobal
